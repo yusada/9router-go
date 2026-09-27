@@ -1,0 +1,6 @@
+How to use this package:
+1. Extract the ZIP file into the root directory of your 9router-go repository.
+2. The Dockerfile and railway.json will be placed in the root directory.
+3. Open your README.md and copy the contents of `README_ADDITION.md` into it.
+4. Commit and push these changes to GitHub.
+5. Go to Railway.com, link your repository, and it will be recognized as a template!
